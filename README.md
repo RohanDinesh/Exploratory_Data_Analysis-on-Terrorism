@@ -1,6 +1,5 @@
 # Exploratory_Data_Analysis-on-Terrorism
 Task 4 
-
 Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
 
 I will be doing this with the help of seaborn, plotly and folium libraries in python. Dataset can be found at : https://bit.ly/2TK5Xn5
